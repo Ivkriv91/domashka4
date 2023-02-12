@@ -1,0 +1,15 @@
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/zadacha29.csproj.AssemblyReference.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/zadacha29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/zadacha29.AssemblyInfoInputs.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/zadacha29.AssemblyInfo.cs
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/zadacha29.csproj.CoreCompileInputs.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/bin/Debug/net6.0/zadacha29
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/bin/Debug/net6.0/zadacha29.deps.json
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/bin/Debug/net6.0/zadacha29.runtimeconfig.json
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/bin/Debug/net6.0/zadacha29.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/bin/Debug/net6.0/zadacha29.pdb
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/zadacha29.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/refint/zadacha29.dll
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/zadacha29.pdb
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/zadacha29.genruntimeconfig.cache
+/Users/ivankrivonos/Desktop/Учеба/SEM_01/DZ4/zadacha29/obj/Debug/net6.0/ref/zadacha29.dll
